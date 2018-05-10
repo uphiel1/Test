@@ -1,0 +1,135 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoxObserver<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.wangfei.lecture.BoxObserver",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Beetle<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.wangfei.Test.Beetle",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemonstrateDeadlock<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.DemonstrateDeadlock",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NoVisibility<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.NoVisibility",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OutOfTime<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.OutOfTime",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PossibleReordering<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.PossibleReordering",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PutTakeTest<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.PutTakeTest",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SingleThreadWebServer<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.SingleThreadWebServer",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TaskExecutionWebServer<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.TaskExecutionWebServer",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreadPerTaskWebServer<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.ThreadPerTaskWebServer",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimedPutTakeTest<Test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.jcip.examples.TimedPutTakeTest",
+            "projectName": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
